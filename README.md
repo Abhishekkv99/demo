@@ -7,3 +7,4 @@ this is a simple readme file
 a diff is created
 
 this is trouble
+stashing
